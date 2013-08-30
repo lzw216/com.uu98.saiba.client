@@ -1,2 +1,8 @@
 # OS X
 .DS_Store
+# built application files
+*.apk
+*.ap_
+# Java class files
+*.class
+platforms/android/
